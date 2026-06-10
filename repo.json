@@ -1,9 +1,9 @@
 {
-  "name": "SKY STREAM Cookie's",
+  "name": "Few Cookie's 🍪",
   "packageName": "dev.cookie.repo",
-  "description": "Plugins To See Anything From Anywhere",
+  "description": "Few Plugins To Watch Anything From Anywhere",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/1900Mrperfect/Addons/refs/heads/main/plugins.json"
+    "https://raw.githubusercontent.com/thegnsme/skystream-plugins/repo/dist/plugins.json"
   ]
 }
